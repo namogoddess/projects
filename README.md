@@ -9,5 +9,5 @@
 
 _Задачи проекта_:  На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
 
-_Инструменты_: Matplotlib, Pandas, PyMystem3, Python, SciKitLearn, SciPy, Seaborn, numpy, лемматизация, предобработка данных
+_Инструменты_:<code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>PyMystem3</code>, <code>SciKitLearn</code>, <code>SciPy</code>, <code>Seaborn</code>, <code>numpy</code>, <code>лемматизация</code>, <code>предобработка данных</code>
 
