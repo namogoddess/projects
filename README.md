@@ -29,3 +29,18 @@ _Инструменты_:<code>Python</code>, <code>Matplotlib</code>, <code>Pan
 _Задачи проекта_:  Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
 
 _Инструменты_: <code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>исследовательский анализ данных</code>, <code>визуализация данных</code>,  <code>SciPy</code>, code>math</code>, <code>numpy</code>, <code>Seaborn</code>, <code>предобработка данных</code>, <code>sklearn</code>, <code>машинное обучение</code>, <code>Bootstrap</code>
+
+**[Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/namogoddess/projects/blob/main/Gold_learning_machine_model.ipynb)** 
+
+_Задачи проекта_:  Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
+
+_Инструменты_:<code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>исследовательский анализ данных</code>, <code>машинное обучение</code>,  <code>math</code>, <code>numpy</code>, <code>предобработка данных</code>
+
+**[Разработка алгоритма для защиты данных](https://github.com/namogoddess/projects/blob/main/Linear_algebra.ipynb)** 
+
+_Задачи проекта_:  Методом преобразования данных защитить личную информацию клиентов страховой компании. 
+
+_Инструменты_:<code>Python</code>, <code>Pandas</code>, <code>машинное обучение</code>, <code>Seaborn</code>
+
+
+
