@@ -24,3 +24,8 @@ _Задачи проекта_:  На основе данных клиентов 
 
 _Инструменты_:<code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>исследовательский анализ данных</code>, <code>визуализация данных</code>,  <code>SciPy</code>, code>math</code>, <code>numpy</code>, <code>Seaborn</code>, <code>предобработка данных</code>, <code>sklearn</code>, <code>машинное обучение</code>
 
+**[Выбор региона для разработки новых нефтяных месторождений](https://github.com/namogoddess/projects/blob/main/Machine_learning_in_business.ipynb)** 
+
+_Задачи проекта_:  Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
+
+_Инструменты_: <code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>исследовательский анализ данных</code>, <code>визуализация данных</code>,  <code>SciPy</code>, code>math</code>, <code>numpy</code>, <code>Seaborn</code>, <code>предобработка данных</code>, <code>sklearn</code>, <code>машинное обучение</code>, <code>Bootstrap</code>
