@@ -11,3 +11,10 @@ _Задачи проекта_:  На основе статистики о пла
 
 _Инструменты_:<code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>PyMystem3</code>, <code>SciKitLearn</code>, <code>SciPy</code>, <code>Seaborn</code>, <code>numpy</code>, <code>лемматизация</code>, <code>предобработка данных</code>
 
+
+**[Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/namogoddess/projects/blob/main/Exploratory_data_analysis.ipynb)** 
+
+_Задачи проекта_:  Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
+
+_Инструменты_:<code>Python</code>, <code>Matplotlib</code>, <code>Pandas</code>, <code>исследовательский анализ данных</code>, <code>визуализация данных</code>,  <code>math</code>, <code>numpy</code>, <code>предобработка данных</code>
+
