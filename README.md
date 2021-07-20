@@ -42,5 +42,9 @@ _Задачи проекта_:  Методом преобразования да
 
 _Инструменты_:<code>Python</code>, <code>Pandas</code>, <code>машинное обучение</code>, <code>Seaborn</code>
 
+**[Определение возраста по фото](https://github.com/namogoddess/projects/blob/main/Computer_vision.ipynb)** 
 
+_Задачи проекта_:  Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста.
+
+_Инструменты_: <code>Pandas</code>, <code>keras</code>, <code>Python</code>, <code>Matplotlib</code>, <code>машинное обучение</code>, <code>Seaborn</code>, <code>компьютерное зрение</code>
 
